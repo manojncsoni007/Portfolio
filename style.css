@@ -194,3 +194,10 @@ footer h3 {
 .blog span {
     color: #F87171;
 }
+
+@media (max-width: 900px) {
+    body {
+        max-width: 95%;
+        width: 100%;
+    }
+}
