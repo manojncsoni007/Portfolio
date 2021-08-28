@@ -250,7 +250,9 @@ footer h3 {
     }
     footer ul li {
         display: inline-block;
-        margin: 0.2rem;
         text-align: center;
+        margin-right: 1rem;
+        margin-bottom: 0.5rem;
+        font-weight: bold;
     }
 }
