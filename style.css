@@ -194,17 +194,3 @@ footer h3 {
 .blog span {
     color: #F87171;
 }
-
-@media (max-width: 900px) {
-    body {}
-    .list-item-inline {
-        display: inline;
-        padding: 0rem;
-    }
-    .container-center {
-        width: auto;
-    }
-    .link-primary {
-        display: block;
-    }
-}
