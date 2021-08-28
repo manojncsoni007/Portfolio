@@ -196,11 +196,7 @@ footer h3 {
 }
 
 @media (max-width: 900px) {
-    body {
-        max-width: 95%;
-        width: 100%;
-        margin: center;
-    }
+    body {}
     .list-item-inline {
         display: inline;
         padding: 0rem;
