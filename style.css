@@ -225,6 +225,9 @@ footer h3 {
     nav ul {
         text-align: center;
     }
+    .link-primary {
+        display: block;
+    }
     .section {
         padding: 2rem;
         margin: 1rem auto;
