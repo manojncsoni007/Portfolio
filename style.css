@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+*,
+*::Before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0px auto;
@@ -224,8 +230,9 @@ footer h3 {
         margin: 1rem auto;
         border-radius: 1.5rem;
         text-align: center;
-        max-width: 80%;
+        max-width: 90%;
         width: 100%;
+        display: block;
     }
     footer {
         background-color: #F87171;
