@@ -166,6 +166,7 @@ footer p {
 
 .footer-list {
     margin: 0;
+    padding-left: 0px;
 }
 
 a,
@@ -266,7 +267,7 @@ img {
         width: 100%;
         display: block;
     }
-    /* footer {
+    footer {
         background-color: #F87171;
         padding: 0.5rem 0.5rem;
         border-radius: 1.2rem 1.2rem 0 0;
@@ -284,5 +285,5 @@ img {
         margin-right: 1rem;
         margin-bottom: 0.5rem;
         font-weight: bold;
-    } */
+    }
 }
