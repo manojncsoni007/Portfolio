@@ -118,7 +118,8 @@ nav ul li a:hover {
 
 /* footer classes */
 
-footer {
+
+/* footer {
     background-color: #F87171;
     padding: 0.5rem 1rem;
     text-align: center;
@@ -148,6 +149,36 @@ footer ul li a:hover {
 
 footer h3 {
     color: white;
+} */
+
+footer {
+    max-width: 80%;
+    width: 100%;
+    text-align: center;
+    margin: 2rem auto 0 auto;
+    background-color: #F87171;
+    padding: 0.5rem 0.3rem;
+}
+
+footer p {
+    font-size: large;
+    font-weight: bold;
+}
+
+.footer-list {
+    margin: 1rem;
+}
+
+a,
+img,
+li {
+    display: inline;
+    margin: 0 0.3rem;
+}
+
+img {
+    width: 35px;
+    padding: 0.2rem;
 }
 
 
