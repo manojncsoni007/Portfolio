@@ -115,6 +115,10 @@ nav ul li a:hover {
     margin: auto;
 }
 
+.section a {
+    margin-bottom: 20px;
+}
+
 
 /* footer classes */
 
@@ -254,12 +258,13 @@ img {
     }
     nav ul {
         text-align: center;
+        padding-left: 00px;
     }
     .link-primary {
         display: block;
     }
     .section {
-        padding: 2rem;
+        padding: 10px 32px 32px 32px;
         margin: 1rem auto;
         border-radius: 1.5rem;
         text-align: center;
