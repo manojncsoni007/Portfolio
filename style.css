@@ -156,6 +156,7 @@ footer h3 {
 } */
 
 footer {
+    max-width: 80%;
     width: 100%;
     text-align: center;
     margin: 2rem auto 0 auto;
@@ -166,6 +167,10 @@ footer {
 footer p {
     font-size: large;
     font-weight: bold;
+}
+
+footer li {
+    margin: 0 2rem;
 }
 
 .footer-list {
